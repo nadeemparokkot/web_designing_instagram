@@ -1,0 +1,186 @@
+.main-page{
+   height: 850px;
+}
+.body{
+    margin: 0;
+}
+.left-sector{
+    float: left;
+    width: 20%;
+    padding-left: 392px;
+    margin-top: 6px;
+}
+.right-sector{
+    float: left;
+    width: 50%;
+    border: 20px solid #d4d4d4;
+    border-width: 1px;
+    height: 510px;
+    margin-left: 180px;
+    margin-top: 36px;
+    max-width: 430px;
+
+}
+.right-sector-footer{
+    border: 20px solid #d4d4d4;
+    border-width: 1px;
+    height: 80px;
+    margin-top: 50px;
+    width: 430px;
+    
+}
+.img{
+    width: 519px;
+}
+.form{
+    padding-top: 50px;
+}
+.user{
+
+    height: 40px;
+    width: 320px;
+    font-size: 16px; 
+    border-width: 1px;
+    border-radius: 4px;
+    margin-left: 52px;
+    border-style: solid; /*border color*/
+    border-color: rgb(224, 224, 224);
+    background: rgb(247, 247, 247);
+
+
+}
+.login{
+    margin-left: 52px;
+    font-size: 16px;
+    border-radius: 10px;
+    height: 45px;
+    width: 330px;
+    font-weight: bold; 
+    background: rgba(13, 178, 255, 0.795);
+    color: #fff;
+    font-size: 18px;
+    border-style: solid; /*border color*/
+    border-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+
+}
+.instagram{
+    margin-left: 100px;
+    
+
+    
+}
+.login1{
+    color: rgb(38, 50, 116);
+    font-weight: bold;
+    font-size: 19px;
+    text-decoration: none;
+    padding-left: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login2{
+    color:rgb(38, 50, 116);
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 15px;
+    width: 300px;
+    padding-left: 129px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    margin-left: 110px;
+    margin-top: 20px;
+
+}
+.line{
+    height: 2px;
+    background-color: rgb(199, 199, 199);
+    border: none;
+    margin-bottom: -10px;
+    
+}
+.center-right{
+    width: 30%;
+    margin-left: 70px;
+
+}
+.center-left{
+    width: 30%;
+    margin-left: 240px;
+    
+
+
+}
+.or{
+    margin-top: 0px;
+    padding-left: 205px;
+    color: gray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para1{
+    padding-left: 80px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.para2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    padding-left: 150px;
+
+}
+.signup{
+    color: rgb(21, 143, 199);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.right-sector-footer-down-right{
+    padding-top: 10px;
+    width: 50%;
+    float: left;
+
+}
+.right-sector-footer-down-left{
+    padding-top: 10px;
+    width: 50%;
+    float: left;
+
+}
+.img1{
+    height: 50px;
+    padding-left: 20px;
+}
+.img2{
+    height: 50px;
+}
+.main-footer{
+    float: left;
+    padding-top: 2px;
+    padding-left: 290px;
+    
+}
+.para3{
+    color: grey;
+    text-decoration: none;
+    font-size: 15px;
+    word-spacing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para4{
+    color: grey;
+    text-decoration: none;
+    word-spacing: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 400px;
+
+
+}
